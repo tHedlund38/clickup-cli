@@ -1,6 +1,6 @@
 {
   "name": "clickup-cli",
-  "version": "0.1.16",
+  "version": "0.1.17",
   "description": "ClickUp CLI for AI agents",
   "main": "src/index.ts",
   "scripts": {
